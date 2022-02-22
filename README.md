@@ -1,15 +1,15 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<div align="center">Namaste 🙏
 </div>  
-  
+
+<hr/>
 
 ### <div align="center">I'm Meet, a full-time front-end developer 👨‍💻 working remotely since November,2022 🚀</div>  
   
 
-- 🔭 I’m currently working for [Lead InfoSoft](https://www.leadinfosoft.com) as a React JS Developer  
+- 🏢 I’m currently working for [Lead InfoSoft](https://www.leadinfosoft.com) as a React JS Developer  
   
 
-- 🌱 I’m currently learning Next JS, Typescript and Tailwind CSS  
+- 🎓 I’m currently learning Next JS, Typescript and Tailwind CSS  
   
 
 - ❓ Ask me about React JS and related technologies  
