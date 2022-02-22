@@ -1,9 +1,7 @@
-<h2 align="center">Namaste 🙏
-</h2>  
+<h1 align="center">Namaste 🙏
+</h1>  
 
-<hr/>
-
-### <div align="center">I'm Meet, a full-time front-end developer 👨‍💻 working remotely since November,2022 🚀</div>  
+<div align="center">I'm Meet, a full-time front-end developer 👨‍💻 working remotely since November,2022 🚀</div>  
 
 <br/>
 
