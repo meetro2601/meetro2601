@@ -1,10 +1,11 @@
-<div align="center">Namaste 🙏
-</div>  
+<h2 align="center">Namaste 🙏
+</h2>  
 
 <hr/>
 
 ### <div align="center">I'm Meet, a full-time front-end developer 👨‍💻 working remotely since November,2022 🚀</div>  
-  
+
+<br/>
 
 - 🏢 I’m currently working for [Lead InfoSoft](https://www.leadinfosoft.com) as a React JS Developer  
   
