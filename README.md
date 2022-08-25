@@ -5,10 +5,10 @@
 
 <br/>
 
-- 🏢 I’m currently working for [Lead InfoSoft](https://www.leadinfosoft.com) as a React JS Developer  
+- 🏢 I recently worked for [Lead InfoSoft](https://www.leadinfosoft.com) as a React JS Developer  
   
 
-- 🎓 I’m currently learning Next JS, Typescript and Tailwind CSS  
+- 🎓 I’m currently learning Next JS and MERN stack
   
 
 - ❓ Ask me about React JS and related technologies  
